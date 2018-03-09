@@ -188,7 +188,6 @@ body {
 
 canvas {
     display: block;
-    vertical-align: bottom;
 }
 
 
@@ -216,7 +215,6 @@ canvas {
 
 #stats,
 .count-particles {
-    -webkit-user-select: none;
     margin-top: 5px;
     margin-left: 5px;
 }
